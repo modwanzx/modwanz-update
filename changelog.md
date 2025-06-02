@@ -1,4 +1,10 @@
-<h3>⚠ New Update Available</h3>
-- Update base 20.06.48 - modwanz <br>                                 
-- Fixed background video playback <br>
-- Fixed integrity Support Wanz login
+{
+"showUpdate": "true",
+"version": "20.06.47",
+"title": "New Update available!",
+"NewVersion": "20.06.48",
+"downloadLink":"https://updatemodwanz.blogspot.com",
+"changeLogMessage": "Update is available, please update immediately to prevent app crash.",
+"positivebtn": "UPDATE NOW",
+"changelogTitle": "MODWANZ"
+}
